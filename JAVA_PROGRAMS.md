@@ -1,3 +1,5 @@
+````
+
 1. Perfect,Abudant, Deficient Number
 2. LCM ,  GCD
 3. Ampicable Pair
@@ -31,12 +33,12 @@
 32.Remove All Occurrences of an Element in an Array
 33.Remove duplicates from Sorted Array
 34.Minimum Swaps required to group all 1’s together
-35.Implement two Stacks in an Array                                                                                                                                                   36. How to efficiently implement k stacks in a single array?
+35.Implement two Stacks in an Array                                                                                                                                36. How to efficiently implement k stacks in a single array?
 37.Implement Stack using Queues
 38.Inverted Right-Angle Triangle Pattern
 39.Pyramid Pattern
 40.Array Right Rotation
-
+````
 
 ### Perfect,Abudant, Deficient Number
 ````
